@@ -1,0 +1,37 @@
+# Node dependencies
+frontend/node_modules/
+node_modules/
+
+# Production build outputs
+frontend/dist/
+dist/
+
+# Python cache & virtual environments
+__pycache__/
+*/__pycache__/
+*/**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment variables & secrets
+.env
+.env.local
+*.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backend temporary outputs (optional reports)
+backend/reports/*.pdf
