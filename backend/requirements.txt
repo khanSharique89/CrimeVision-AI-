@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+gunicorn
+numpy
+scipy
+opencv-python-headless
+Pillow
+reportlab
+google-generativeai
